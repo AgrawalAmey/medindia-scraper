@@ -1,0 +1,17 @@
+{
+  "name": "HinduScraper",
+  "version": "1.0.0",
+  "description": "Fetch and store hinu archives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Amey Agrawal",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.6.6",
+    "scraperjs": "^1.2.0",
+    "string.prototype.startswith": "^0.2.0"
+  }
+}
